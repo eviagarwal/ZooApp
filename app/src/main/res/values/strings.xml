@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ZooApp</string>
+    <string name="drawer_opened">Select an item</string>
+    <string name="drawer_closed">ZooApp</string>
+    <string name="exhibits_feed">https://gist.githubusercontent.com/anonymous/8e7c2be62412d95e05ec0fdd013550f3/raw/b8af88d514d2f3d3aa9bf0f65b55b5ed04a7c6bc/</string>
+    <string name="gallery_feed">https://gist.githubusercontent.com/anonymous/e6c1ee15c829287fb8086b7059589a6b/raw/debcd258297815b3e9828964aef92aee5952ed49/</string>
+    <string name="pins_feed">https://gist.githubusercontent.com/anonymous/e599ee99bd2478d8864b9f3855e546fd/raw/bccccee4feccdcf601174bdf2104a321de114e25/</string>
+
+</resources>
